@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LoadingButton",
+        "repositoryURL": "https://github.com/Changemin/LoadingButton",
+        "state": {
+          "branch": null,
+          "revision": "5045668df822a04c248a9b40aca888a4d37f275a",
+          "version": "1.1.2"
+        }
+      },
+      {
+        "package": "ScrollViewReactiveHeader",
+        "repositoryURL": "https://github.com/swiftui-library/scrollview-reactive-header",
+        "state": {
+          "branch": null,
+          "revision": "60a293fb34c7e654dbe6c96c29ab0544627c2edd",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
